@@ -1,5 +1,5 @@
-**Hand Sensing**
-Hand Sensing using OpenCV and Python 
+**Hand Sensing** using OpenCV and Python 
+
 
 
 **NOTE**
