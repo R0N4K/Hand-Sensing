@@ -2,5 +2,6 @@
 
 
 
-**NOTE**/n
+**NOTE**
+
 The **MediaPipe** package can be used by installing the **MediaPipeTools**.
