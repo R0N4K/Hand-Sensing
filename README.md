@@ -1,4 +1,4 @@
-**Hand Sensing** using OpenCV and Python 
+**Hand Sensing** using OpenCV, Python, and cvzone
 
 
 
